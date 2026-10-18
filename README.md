@@ -36,6 +36,8 @@ This project explores customer payment behaviour using customer-level unsupervis
 
 4. Open the notebook in Jupyter and run cells from top to bottom. Keep the input CSV in the notebook's expected relative path.
 
+> **Note:** Run this project via the notebook (`Payment_Behaviour_Digital_Payment_Intelligence.ipynb`) in Jupyter — that is the supported path and runs without errors. The standalone script (`Payment_Behaviour_Digital_Payment_Intelligence.py`) is a notebook export that relies on `IPython.display.display()` and `plt.show()` with Jupyter's inline backend, so running it directly with `python <script>.py` outside Jupyter will error/crash (GUI backend / display issues).
+
 ## Methods covered
 
 - Exploratory data analysis and data-quality checks
