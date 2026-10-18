@@ -1,0 +1,6 @@
+cluster,segment_name,customer_count,customer_pct,avg_spend_inr,avg_txn_value_inr,cashback_usage_rate,average_discount_pct,recommendation
+0,UPI-centric customers,221,30.7,9122.12,802.76,0.275,5.61,Keep UPI checkout prominent; test low-cost instant rewards and fast repeat-purchase flows.
+1,Wallet/offer-oriented customers,117,16.2,13459.21,973.53,0.769,11.81,Measure incremental lift from wallet/cashback campaigns and set reward caps to avoid subsidizing purchases that would happen anyway.
+2,Cash-oriented customers,123,17.1,4114.02,526.27,0.027,2.91,"Keep cash and assisted alternatives accessible; offer optional, low-friction digital onboarding without penalizing cash use."
+3,Card-oriented customers,172,23.9,18626.63,1739.76,0.191,5.01,Offer relevant card-linked benefits and transparent checkout; test value-added benefits before blanket discounts.
+4,EMI/BNPL-oriented customers,87,12.1,35724.36,4753.92,0.241,6.66,"Show total cost, fees, and repayment terms clearly; provide affordability safeguards and avoid encouraging unnecessary borrowing."

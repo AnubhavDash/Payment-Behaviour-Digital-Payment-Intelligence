@@ -1,0 +1,12 @@
+SUBMISSION CHECKLIST
+Student: Anubhav Dash
+UID: A501132524011
+Topic: Payment Behaviour & Digital Payment Intelligence
+
+1. Upload the final ZIP archive to the Google Drive folder given in the assignment brief.
+2. The assignment specifies the archive naming convention YourName_UID.zip; this archive is named AnubhavDash_A501132524011.zip.
+3. The ZIP includes the detailed report PDF, editable report DOCX, final presentation PPTX, executable notebook, code PDF, Python script, dataset/supporting CSVs, and EDA/model plots.
+4. GitHub is supplementary unless your instructor separately asks for the repository URL. Keep the README clear that the dataset is synthetic.
+5. Open the notebook once before any viva/demo and ensure dependencies are installed.
+
+Important: The dataset is synthetic and the resulting metrics are illustrative, not observations from a real payment company.

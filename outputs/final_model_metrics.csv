@@ -1,0 +1,5 @@
+feature_set,algorithm,k,silhouette,davies_bouldin
+Payment-mode only,K-Means,5,0.4948832725898258,0.7042621196292507
+Payment-mode only,Agglomerative (Ward),5,0.45828026560917723,0.7789016336654383
+Payment + spending + frequency + offers,K-Means,5,0.28207425235165456,1.3577371591496412
+Payment + spending + frequency + offers,Agglomerative (Ward),5,0.2716745597644997,1.4145733120886455
